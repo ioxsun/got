@@ -1,0 +1,6 @@
+.selected {
+	background: lightgrey;
+}
+td span {
+	cursor:pointer;
+}
